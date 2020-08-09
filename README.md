@@ -4,12 +4,12 @@
 pyERA library from https://github.com/mpatacchiola/pyERA used as well as the materials of the article ***"Epigenetic Robotic Architecture"***
 
 ### Project structure
-#### notebooks
-contain jupyter notebooks  
+#### Notebooks
+contains jupyter notebooks  
 ***SOM.ipynb*** used for testing and visualizing results of pretrained SOM for Nao dataset  
 to run it the pretrained SOMs are required that are available at https://box.hu-berlin.de/d/271928edc87844cd8eeb/  
 ***SOM_other_data.ipynb*** used for training and testing of hub-SOM model for iCub dataset
-#### database 
+#### Database 
 contains a test set for a Nao robot, as well as a training set and a test set used in work of M. Zambelli, A. Cully, and Y. Demiris ***"Multimodal representation models forprediction and control from partial information"*** and available here https://github.com/ImperialCollegeLondon/Zambelli2019_RAS_multimodal_VAE/tree/master/matlab/database  
 training date set for the Nao robot is available here https://box.hu-berlin.de/d/271928edc87844cd8eeb/
 #### Nao
